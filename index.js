@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "          ." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "   Gửi đến ai ddos       ." //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc mừng Ngày Phụ nữ 20/10! Chúc m luôn tràn đầy niềm vui và tự tin.Hãy luôn tỏa sáng và thành công trong mọi lĩnh vực đang theo đuổi. Chúc m luôn thăng hoa trong mọi nỗ lực, đạt được những ước mơ và mục tiêu của mình. Hãy biết rằng bản thân xứng đáng với tất cả niềm vui và hạnh phúc trong cuộc sống.Happy Women's Day!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
